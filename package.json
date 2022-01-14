@@ -3,15 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-sexgplayer-flv-multi-4reach.jsrvice build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0"
+    "vuex": "^4.0.0-0",
+    "xgplayer-flv-multi-4reach.js": "^0.1.10",
+    "xgplayer-flv-single-4reach.js": "^0.1.3",
+    "xgplayer-multi-live-4reach": "^2.0.10",
+    "xgplayer-multi-vod-4reach": "^2.1.1",
+    "xgplayer-single-video-4reach": "^2.0.7"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

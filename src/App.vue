@@ -1,7 +1,9 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/single/vod">单路点播</router-link> |
+    <router-link to="/single/live">单路直播</router-link> |
+    <router-link to="/multi/vod">多路点播</router-link> |
+    <router-link to="/multi/live">多路直播</router-link>
   </div>
   <router-view/>
 </template>
